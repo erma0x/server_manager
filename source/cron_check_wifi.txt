@@ -1,0 +1,1 @@
+*/5 * * * * /path/source/check_wifi.sh >> /path/source/logfile.log 2>&1
